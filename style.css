@@ -1,0 +1,8 @@
+nav{background-color: dimgray !important; }
+body{font-family: 'Courier New', Courier, monospace ;
+background-color: aquamarine  ;
+opacity: 1;}
+.centredText{text-align: center !important;}
+#personalProfile {margin-top:  10%;}
+img{display:block;
+    border-radius: 100px;}
